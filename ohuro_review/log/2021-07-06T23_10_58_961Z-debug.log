@@ -1,0 +1,65 @@
+0 verbose cli [ '/usr/local/bin/node',
+0 verbose cli   '/usr/local/bin/npm',
+0 verbose cli   'uninstall',
+0 verbose cli   'jquery' ]
+1 info using npm@7.19.0
+2 info using node@v10.15.3
+3 timing npm:load:whichnode Completed in 1ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 7ms
+6 timing config:load:builtin Completed in 7ms
+7 timing config:load:cli Completed in 3ms
+8 timing config:load:env Completed in 0ms
+9 timing config:load:file:/usr/src/app/.npmrc Completed in 1ms
+10 timing config:load:project Completed in 3ms
+11 timing config:load:file:/root/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 1ms
+14 timing config:load:global Completed in 1ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 1ms
+17 timing config:load:setEnvs Completed in 1ms
+18 timing config:load Completed in 17ms
+19 timing npm:load:configload Completed in 17ms
+20 timing npm:load:setTitle Completed in 0ms
+21 timing npm:load:setupLog Completed in 2ms
+22 timing npm:load:cleanupLog Completed in 2ms
+23 timing npm:load:configScope Completed in 0ms
+24 timing npm:load:projectScope Completed in 2ms
+25 timing npm:load Completed in 25ms
+26 timing config:load:flatten Completed in 5ms
+27 timing arborist:ctor Completed in 2ms
+28 timing idealTree:init Completed in 1172ms
+29 timing idealTree:userRequests Completed in 3ms
+30 silly idealTree buildDeps
+31 timing idealTree:#root Completed in 0ms
+32 timing idealTree:buildDeps Completed in 2ms
+33 timing idealTree:fixDepFlags Completed in 28ms
+34 timing idealTree Completed in 1224ms
+35 timing arborist:ctor Completed in 0ms
+36 timing reify:loadTrees Completed in 2500ms
+37 timing reify:diffTrees Completed in 108ms
+38 silly reify mark retired [ '/usr/src/app/node_modules/html-webpack-plugin/node_modules/json5',
+38 silly reify   '/usr/src/app/node_modules/html-webpack-plugin/node_modules/.bin/json5' ]
+39 silly reify mark retired [ '/usr/src/app/node_modules/json5',
+39 silly reify   '/usr/src/app/node_modules/.bin/json5' ]
+40 silly reify moves { '/usr/src/app/node_modules/html-webpack-plugin/node_modules/json5':
+40 silly reify    '/usr/src/app/node_modules/html-webpack-plugin/node_modules/.json5-sBDDql4v',
+40 silly reify   '/usr/src/app/node_modules/html-webpack-plugin/node_modules/.bin/json5':
+40 silly reify    '/usr/src/app/node_modules/html-webpack-plugin/node_modules/.bin/.json5-P7FCN4tx',
+40 silly reify   '/usr/src/app/node_modules/json5': '/usr/src/app/node_modules/.json5-2rAWnelU',
+40 silly reify   '/usr/src/app/node_modules/.bin/json5': '/usr/src/app/node_modules/.bin/.json5-AP65BXNS' }
+41 timing reify:rollback:retireShallow Completed in 4017ms
+42 timing command:uninstall Completed in 9838ms
+43 verbose stack Error: ENOTEMPTY: directory not empty, rmdir '/usr/src/app/node_modules/html-webpack-plugin/node_modules/.json5-sBDDql4v/lib'
+44 verbose cwd /usr/src/app
+45 verbose Linux 4.19.130-boot2docker
+46 verbose argv "/usr/local/bin/node" "/usr/local/bin/npm" "uninstall" "jquery"
+47 verbose node v10.15.3
+48 verbose npm  v7.19.0
+49 error code ENOTEMPTY
+50 error syscall rmdir
+51 error path /usr/src/app/node_modules/html-webpack-plugin/node_modules/.json5-sBDDql4v/lib
+52 error errno -39
+53 error ENOTEMPTY: directory not empty, rmdir '/usr/src/app/node_modules/html-webpack-plugin/node_modules/.json5-sBDDql4v/lib'
+54 verbose exit -39

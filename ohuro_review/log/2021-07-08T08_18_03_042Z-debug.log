@@ -1,0 +1,49 @@
+0 verbose cli [ '/usr/local/bin/node',
+0 verbose cli   '/usr/local/bin/npm',
+0 verbose cli   'install',
+0 verbose cli   '--save',
+0 verbose cli   '@/components/.vue' ]
+1 info using npm@7.19.0
+2 info using node@v10.15.3
+3 timing npm:load:whichnode Completed in 0ms
+4 timing config:load:defaults Completed in 1ms
+5 timing config:load:file:/usr/local/lib/node_modules/npm/npmrc Completed in 5ms
+6 timing config:load:builtin Completed in 6ms
+7 timing config:load:cli Completed in 4ms
+8 timing config:load:env Completed in 1ms
+9 timing config:load:file:/usr/src/app/.npmrc Completed in 1ms
+10 timing config:load:project Completed in 2ms
+11 timing config:load:file:/root/.npmrc Completed in 0ms
+12 timing config:load:user Completed in 0ms
+13 timing config:load:file:/usr/local/etc/npmrc Completed in 0ms
+14 timing config:load:global Completed in 0ms
+15 timing config:load:validate Completed in 0ms
+16 timing config:load:credentials Completed in 2ms
+17 timing config:load:setEnvs Completed in 0ms
+18 timing config:load Completed in 17ms
+19 timing npm:load:configload Completed in 17ms
+20 timing npm:load:setTitle Completed in 0ms
+21 timing npm:load:setupLog Completed in 1ms
+22 timing npm:load:cleanupLog Completed in 2ms
+23 timing npm:load:configScope Completed in 0ms
+24 timing npm:load:projectScope Completed in 1ms
+25 timing npm:load Completed in 24ms
+26 timing config:load:flatten Completed in 5ms
+27 timing arborist:ctor Completed in 0ms
+28 verbose shrinkwrap failed to load node_modules/.package-lock.json out of date, updated: node_modules
+29 timing idealTree:init Completed in 987ms
+30 timing idealTree Completed in 993ms
+31 timing command:install Completed in 1022ms
+32 verbose stack Error: ENOENT: no such file or directory, open '/usr/src/app/@/components/.vue/package.json'
+33 verbose cwd /usr/src/app
+34 verbose Linux 4.19.130-boot2docker
+35 verbose argv "/usr/local/bin/node" "/usr/local/bin/npm" "install" "--save" "@/components/.vue"
+36 verbose node v10.15.3
+37 verbose npm  v7.19.0
+38 error code ENOENT
+39 error syscall open
+40 error path /usr/src/app/@/components/.vue/package.json
+41 error errno -2
+42 error enoent ENOENT: no such file or directory, open '/usr/src/app/@/components/.vue/package.json'
+43 error enoent This is related to npm not being able to find a file.
+44 verbose exit -2

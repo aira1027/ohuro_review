@@ -1,0 +1,376 @@
+{
+  "restendpoint": [
+    {
+      "id": 4,
+      "spaName": "hoge温泉",
+      "selectedLocation": "群馬県",
+      "selectedYushitu": [
+        "黒湯",
+        "単純泉(すべすべ)"
+      ],
+      "selectedSauna": [
+        "ミストサウナ",
+        "高温サウナ",
+        "ロウリュウ"
+      ],
+      "selectedOther": [
+        "休憩スペース(椅子)",
+        "ご飯処が美味しい",
+        "シャンプーが良質"
+      ],
+      "selectedAccess": [
+        "電車"
+      ],
+      "allValue": 3,
+      "typeValue": 3,
+      "atmosValue": 2,
+      "freeText": "test\n\n\n",
+      "postdate": "2022/2/11 1:36:23"
+    },
+    {
+      "id": 5,
+      "spaName": "hoge温泉",
+      "selectedLocation": "北海道",
+      "selectedYushitu": [
+        "炭酸泉",
+        "塩化泉(海水含む)",
+        "香湯(ワイン風呂など)"
+      ],
+      "selectedSauna": [
+        "ロウリュウ",
+        "ミストサウナ",
+        "水風呂"
+      ],
+      "selectedOther": [
+        "休憩スペース(椅子)",
+        "休憩スペース(広間)",
+        "シャンプーが良質",
+        "ご飯処が美味しい"
+      ],
+      "selectedAccess": [
+        "電車",
+        "車"
+      ],
+      "allValue": 3,
+      "typeValue": 2,
+      "atmosValue": 2,
+      "freeText": "test",
+      "postdate": "2022/2/20 13:50:38"
+    },
+    {
+      "id": 6,
+      "spaName": "hoge温泉",
+      "selectedLocation": "北海道",
+      "selectedYushitu": [
+        "強炭酸泉",
+        "単純泉(すべすべ)",
+        "塩化泉(海水含む)"
+      ],
+      "selectedSauna": [
+        "ミストサウナ",
+        "整いスペースあり"
+      ],
+      "selectedOther": [],
+      "selectedAccess": [
+        "バス"
+      ],
+      "allValue": 2,
+      "typeValue": 2,
+      "atmosValue": null,
+      "freeText": "",
+      "postdate": "2022/2/20 13:55:00"
+    },
+    {
+      "id": 7,
+      "spaName": "hoge温泉",
+      "selectedLocation": "群馬県",
+      "selectedYushitu": [
+        "黒湯",
+        "単純泉(すべすべ)"
+      ],
+      "selectedSauna": [
+        "ミストサウナ",
+        "高温サウナ",
+        "ロウリュウ"
+      ],
+      "selectedOther": [
+        "休憩スペース(椅子)",
+        "ご飯処が美味しい",
+        "シャンプーが良質"
+      ],
+      "selectedAccess": [
+        "電車"
+      ],
+      "allValue": 3,
+      "typeValue": 3,
+      "atmosValue": 2,
+      "freeText": "test\n\n\n",
+      "postdate": "2022/2/11 1:36:23"
+    },
+    {
+      "id": 8,
+      "spaName": "hoge温泉",
+      "selectedLocation": "北海道",
+      "selectedYushitu": [
+        "炭酸泉",
+        "塩化泉(海水含む)",
+        "香湯(ワイン風呂など)"
+      ],
+      "selectedSauna": [
+        "ロウリュウ",
+        "ミストサウナ",
+        "水風呂"
+      ],
+      "selectedOther": [
+        "休憩スペース(椅子)",
+        "休憩スペース(広間)",
+        "シャンプーが良質",
+        "ご飯処が美味しい"
+      ],
+      "selectedAccess": [
+        "電車",
+        "車"
+      ],
+      "allValue": 3,
+      "typeValue": 2,
+      "atmosValue": 2,
+      "freeText": "test",
+      "postdate": "2022/2/20 13:50:38"
+    },
+    {
+      "id": 9,
+      "spaName": "hoge温泉",
+      "selectedLocation": "北海道",
+      "selectedYushitu": [
+        "強炭酸泉",
+        "単純泉(すべすべ)",
+        "塩化泉(海水含む)"
+      ],
+      "selectedSauna": [
+        "ミストサウナ",
+        "整いスペースあり"
+      ],
+      "selectedOther": [],
+      "selectedAccess": [
+        "バス"
+      ],
+      "allValue": 2,
+      "typeValue": 2,
+      "atmosValue": null,
+      "freeText": "",
+      "postdate": "2022/2/20 13:55:00"
+    },
+    {
+      "id": 10,
+      "spaName": "hoge温泉",
+      "selectedLocation": "群馬県",
+      "selectedYushitu": [
+        "黒湯",
+        "単純泉(すべすべ)"
+      ],
+      "selectedSauna": [
+        "ミストサウナ",
+        "高温サウナ",
+        "ロウリュウ"
+      ],
+      "selectedOther": [
+        "休憩スペース(椅子)",
+        "ご飯処が美味しい",
+        "シャンプーが良質"
+      ],
+      "selectedAccess": [
+        "電車"
+      ],
+      "allValue": 3,
+      "typeValue": 3,
+      "atmosValue": 2,
+      "freeText": "test\n\n\n",
+      "postdate": "2022/2/11 1:36:23"
+    },
+    {
+      "id": 11,
+      "spaName": "hoge温泉",
+      "selectedLocation": "北海道",
+      "selectedYushitu": [
+        "炭酸泉",
+        "塩化泉(海水含む)",
+        "香湯(ワイン風呂など)"
+      ],
+      "selectedSauna": [
+        "ロウリュウ",
+        "ミストサウナ",
+        "水風呂"
+      ],
+      "selectedOther": [
+        "休憩スペース(椅子)",
+        "休憩スペース(広間)",
+        "シャンプーが良質",
+        "ご飯処が美味しい"
+      ],
+      "selectedAccess": [
+        "電車",
+        "車"
+      ],
+      "allValue": 3,
+      "typeValue": 2,
+      "atmosValue": 2,
+      "freeText": "test",
+      "postdate": "2022/2/20 13:50:38"
+    },
+    {
+      "id": 12,
+      "spaName": "hoge温泉",
+      "selectedLocation": "北海道",
+      "selectedYushitu": [
+        "強炭酸泉",
+        "単純泉(すべすべ)",
+        "塩化泉(海水含む)"
+      ],
+      "selectedSauna": [
+        "ミストサウナ",
+        "整いスペースあり"
+      ],
+      "selectedOther": [],
+      "selectedAccess": [
+        "バス"
+      ],
+      "allValue": 2,
+      "typeValue": 2,
+      "atmosValue": null,
+      "freeText": "",
+      "postdate": "2022/2/20 13:55:00"
+    },
+    {
+      "id": 13,
+      "spaName": "hoge温泉",
+      "selectedLocation": "群馬県",
+      "selectedYushitu": [
+        "黒湯",
+        "単純泉(すべすべ)"
+      ],
+      "selectedSauna": [
+        "ミストサウナ",
+        "高温サウナ",
+        "ロウリュウ"
+      ],
+      "selectedOther": [
+        "休憩スペース(椅子)",
+        "ご飯処が美味しい",
+        "シャンプーが良質"
+      ],
+      "selectedAccess": [
+        "電車"
+      ],
+      "allValue": 3,
+      "typeValue": 3,
+      "atmosValue": 2,
+      "freeText": "test\n\n\n",
+      "postdate": "2022/2/11 1:36:23"
+    },
+    {
+      "id": 15,
+      "spaName": "hoge温泉",
+      "selectedLocation": "北海道",
+      "selectedYushitu": [
+        "強炭酸泉",
+        "単純泉(すべすべ)",
+        "塩化泉(海水含む)"
+      ],
+      "selectedSauna": [
+        "ミストサウナ",
+        "整いスペースあり"
+      ],
+      "selectedOther": [],
+      "selectedAccess": [
+        "バス"
+      ],
+      "allValue": 2,
+      "typeValue": 2,
+      "atmosValue": null,
+      "freeText": "",
+      "postdate": "2022/2/20 13:55:00"
+    },
+    {
+      "id": 16,
+      "spaName": "test",
+      "selectedLocation": "神奈川県",
+      "selectedYushitu": [
+        "炭酸泉",
+        "塩化泉(海水含む)",
+        "香湯(ワイン風呂など)"
+      ],
+      "selectedSauna": [],
+      "selectedOther": [
+        "シャンプーが良質"
+      ],
+      "selectedAccess": [
+        "電車",
+        "バス"
+      ],
+      "allValue": 5,
+      "typeValue": 4,
+      "atmosValue": 4,
+      "freeText": "テスト",
+      "postdate": "2022/2/26 9:25:17"
+    },
+    {
+      "id": 17,
+      "spaName": "testSpa",
+      "selectedLocation": "神奈川県",
+      "selectedYushitu": [
+        "黒湯",
+        "炭酸泉",
+        "弱強炭酸泉(シルクの湯)",
+        "強炭酸泉",
+        "単純泉(すべすべ)",
+        "香湯(ワイン風呂など)",
+        "塩化泉(海水含む)",
+        "薬湯"
+      ],
+      "selectedSauna": [
+        "高温サウナ",
+        "ロウリュウ",
+        "整いスペースあり",
+        "ミストサウナ",
+        "水風呂",
+        "オートロウリュウ"
+      ],
+      "selectedOther": [
+        "休憩スペース(椅子)",
+        "漫画あり",
+        "シャンプーが良質",
+        "休憩スペース(広間)",
+        "ご飯処が美味しい",
+        "仮眠スペース",
+        "接客が◎"
+      ],
+      "selectedAccess": [
+        "坂あり",
+        "徒歩",
+        "車",
+        "バス",
+        "電車",
+        "自転車"
+      ],
+      "allValue": 5,
+      "typeValue": 5,
+      "atmosValue": 5,
+      "freeText": "",
+      "postdate": "2022/2/26 9:28:34"
+    },
+    {
+      "id": 18,
+      "spaName": "",
+      "selectedLocation": null,
+      "selectedYushitu": [],
+      "selectedSauna": [],
+      "selectedOther": [],
+      "selectedAccess": [],
+      "allValue": null,
+      "typeValue": null,
+      "atmosValue": null,
+      "freeText": "",
+      "postdate": "2022/2/26 9:29:01"
+    }
+  ]
+}
